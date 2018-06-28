@@ -1,0 +1,53 @@
+ <resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="question1">1. What are the chances of getting a Nano degree in Google Africa Challenge Scholarship?</string>
+    <string name="question1_choice1">Fasting and Prayers</string>
+    <string name="question1_choice3">Do your course work, participate in slack and follow instructions</string>
+    <string name="question1_choice2">Do nothing but expect magic</string>
+
+    <string name="question2">2. What process involves creating your first app?</string>
+    <string name="question2_answer">learn a programming language</string>
+    <string name="question2_hint">Learn ............!</string>
+
+    <string name="question3">3. Name two coordinators in this program</string>
+    <string name="question3_choice1">auwalms, Lorna M.</string>
+    <string name="question3_choice2"> police, army</string>
+    <string name="question3_choice3">Nigeria,Croatia</string>
+    <string name="question3_choice4">Africa,Obanliku</string>
+
+    <string name="question4">4. This word describes the site programmers use for project collaboration/reference codes?</string>
+    <string name="question4_answer">github</string>
+    <string name="question4_hint">Repository, Master, etc.</string>
+
+    <string name="question5">5 What type of device is best for developers?</string>
+    <string name="question5_choice2">Laptop/Desktop computer</string>
+    <string name="question5_choice1">Java phone</string>
+    <string name="question5_choice3">Multi-computer-Language-Tablet</string>
+
+    <string name="question6">6. JavaScript and Java are types of what?</string>
+    <string name="question6_choice1">programming languages</string>
+    <string name="question6_choice2">Software</string>
+     <string name="question6_choice3">Computer Currency </string>
+
+    <string name="question7">7. Which two languages are Most used in Android Studio?</string>
+    <string name="question7_choice1">XML/Java</string>
+    <string name="question7_choice2">Kotlin/JavaScript</string>
+    <string name="question7_choice3">Tomcat/PHP</string>
+    <string name="question7_choice4">Node.js/API</string>
+
+    <string name="question8">8. Where in the internet can you publish your app?</string>
+    <string name="question8_answer">google play store</string>
+    <string name="question8_hint">No hint for this question</string>
+
+    <string name="question9">9. Which is an online training site?</string>
+    <string name="question9_choice1">Google</string>
+    <string name="question9_choice2">Udacity</string>
+    <string name="question9_choice3">Andela</string>
+
+    <string name="question10">10. How many people are going to qualify for Nano Degree?</string>
+    <string name="question10_answer">150</string>
+    <string name="question10_hint"> Few Top Learners!</string>
+
+    <string name="submit_answers">Submit Answers</string>
+</resources>
